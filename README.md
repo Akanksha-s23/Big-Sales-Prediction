@@ -10,6 +10,7 @@ To build a predictive model that accurately estimates Item Outlet Sales based on
 
 # Dataset
     1) Source: YBI Foundation Dataset
+        https://github.com/YBI-Foundation/Dataset/raw/main/Big%20Sales%20Data.csv
     2) Contains 14,000+ records with features like:
             Item Weight
             Item Fat Content
