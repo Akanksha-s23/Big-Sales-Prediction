@@ -1,0 +1,6 @@
+# libraries required in this project:
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
